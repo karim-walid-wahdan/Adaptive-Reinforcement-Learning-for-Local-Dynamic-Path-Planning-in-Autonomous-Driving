@@ -43,3 +43,4 @@ Contributions to this project are welcome. If you would like to contribute, plea
 3. Create a pull request explaining the changes you have made.
 
 # [Bachelor Thesis](https://drive.google.com/file/d/16GHCec4T0BO8XM4cqjz1L9-c0ZB6gpOu/view?usp=sharing)
+# [Research Paper : Dynamic Path Planning for Autonomous Vehicles Using Adaptive Reinforcement Learning](https://www.researchgate.net/publication/378826512_Dynamic_Path_Planning_for_Autonomous_Vehicles_Using_Adaptive_Reinforcement_Learning)
