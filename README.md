@@ -1,5 +1,5 @@
-# Adaptive-Reinforcement-Learning-for-Local-Dynamic-Path-Planning-in-Autonomous-Driving
-A Bachelor's thesis project at the German University in Cairo (GUC) where an adaptive TD3 Model was implemented and trained to tackle the task of dynamic local path planning in autonomous vehicles
+# [Research Paper : Dynamic Path Planning for Autonomous Vehicles Using Adaptive Reinforcement Learning](https://www.researchgate.net/publication/378826512_Dynamic_Path_Planning_for_Autonomous_Vehicles_Using_Adaptive_Reinforcement_Learning)
+A Bachelor's thesis and research project at the German University in Cairo (GUC) where an adaptive TD3 Model was implemented and trained to tackle the task of dynamic local path planning in autonomous vehicles
 # Getting started 
 To use this project, follow these steps:
 1. Clone the repository using the following command:
@@ -7,6 +7,7 @@ To use this project, follow these steps:
     git clone https://github.com/your-username/Adaptive-Reinforcement-Learning-for-Local-Dynamic-Path-Planning-in-Autonomous-Driving.git
    ```
 2. Run the `TD3_PG_Drive.ipynb` file in sequential order to train and test the TD3 model designed to solve the local dynamic path planning.
+
 
 # Introduction and motivation
 For Avs to plot their path and self-pilot, a plethora of components and software must function together in harmony. Navigation systems like GPS are needed to plan a global route for the vehicle and determine its real-time position. Sensors, like Lidar, radar, and cameras, are needed to be able to detect the environment around the car. Perception algorithms, computer vision, and sensor fusion are used to help the agent get a better understanding of their surroundings, however, a challenge arises for the agent when planning the route locally in real-time settings with rapidly changing obstacles, as it needs to make split-second decisions in order to assure the passenger's comfort and safety.
@@ -43,4 +44,3 @@ Contributions to this project are welcome. If you would like to contribute, plea
 3. Create a pull request explaining the changes you have made.
 
 # [Bachelor Thesis](https://drive.google.com/file/d/16GHCec4T0BO8XM4cqjz1L9-c0ZB6gpOu/view?usp=sharing)
-# [Research Paper : Dynamic Path Planning for Autonomous Vehicles Using Adaptive Reinforcement Learning](https://www.researchgate.net/publication/378826512_Dynamic_Path_Planning_for_Autonomous_Vehicles_Using_Adaptive_Reinforcement_Learning)
